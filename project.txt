@@ -1,0 +1,13 @@
+
+
+Analysis the sells and profit report of the given company in 10 years
+ Flipkart
+ Amazone
+ Makemytrip
+ OYO-No of hotels
+ Gobibo- "  "  "
+ Zomato-No of resturant
+
+Generate Reports on Power BI Desktop
+
+Generate the report of sold item of the country?

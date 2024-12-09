@@ -1,0 +1,19 @@
+OOPS in python
+object :- based programming
+ class is collection of  objects and function
+ Syntax:
+ class< class name>:
+    student
+    
+      PYTHON LIBRARY
+
+      1. Numpy: It is used to work on large data set 
+      2.Range is too large 
+      3. high order function
+      3. Create N dimensional array
+
+
+      How to use numpy in python : goto terminal -> pip install numpy
+
+
+
